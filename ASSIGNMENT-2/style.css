@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-1{
+    width: 720px;
+    margin: 50px auto;
+    padding: 10px;
+    position: relative;
+    
+}
+
+.bali-content{
+    width: 500px;
+    top: 39%;
+    left: 39%;
+    transform: translate(-50%, -21%);
+    color: white;
+    position: absolute;
+    bottom: 180px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.bali-img{
+    width: 80%;
+    border-radius: 20px;
+}
+
+.btn{
+    background-color: #fff;
+    padding: 15px 30px;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 14px;
+    border-radius: 40px;
+}
+
+  
+
+  .search-bar {
+    width: 78%;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-bar input {
+    width: 80px; 
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 8px;
+    background-color: transparent;
+    float: left;
+  }
+  
+  .btn-2 {
+    border: none;
+    /* outline: none; */
+    background-color: #ff6b6c;
+    color: white;
+    margin-top: 3px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+.search-bar::placeholder {
+ font-family: 'Poppins', sans-serif;
+
+}
+  
+  .card-2 {
+    width: 720px;
+    margin: 50px auto;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .zomato-content {
+    width: 500px;
+    top: 26%;
+    left: 39%;
+    transform: translate(-50%, -42%);
+    color: white;
+    position: absolute;
+    bottom: 180px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .zomato-img {
+    width: 80%;
+    border-radius: 20px; 
+  }
+  
+  .head-2 {
+    font-family: 'Lobster', cursive;
+    font-size: 75px;
+  }
+  
+  h2 {
+    margin-top: -46px;
+    font-size: 24px;
+  }
+  
+.card-3{
+    width: 420px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid lightblue;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 14px;
+    position: relative;
+
+    
+}
+
+.bgimg{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.user{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 50px;
+    right: 154px;
+    transform: translate(-41px, -50px);
+    /* margin-bottom: -40px; */
+    /* margin-left: 30px; */
+    border: 2px solid rgb(255, 253, 253);
+}
+
+.profile-content{
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.profile-content h1{
+    text-align: center;
+    padding-right: 68px;
+    padding-top: 3px;
+}
+
+.profile-content h3{
+    text-align: center;
+    font-size: 16px;
+    padding-right: 72px;
+    margin-top: -14px;
+    color: #816464;
+}
